@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/colt.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Shayon/Desktop/Work/colt/doc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/concurrent.jar"/>
+	<classpathentry kind="lib" path="lib/collections-generic-4.01.jar"/>
+	<classpathentry kind="lib" path="lib/j3d-core-1.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/jung-3d-2.0.1.jar" sourcepath="C:/Users/Shayon/Desktop/Work/jung/jung2-2_0_1-sources/jung-3d-2.0.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Shayon/Desktop/Work/jung/jung2-2_0_1-apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jung-algorithms-2.0.1.jar" sourcepath="C:/Users/Shayon/Desktop/Work/jung/jung2-2_0_1-sources/jung-algorithms-2.0.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Shayon/Desktop/Work/jung/jung2-2_0_1-apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jung-api-2.0.1.jar" sourcepath="lib/jung-api-2.0.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Shayon/Desktop/Work/jung/jung2-2_0_1-apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jung-graph-impl-2.0.1.jar" sourcepath="C:/Users/Shayon/Desktop/Work/jung/jung2-2_0_1-sources/jung-graph-impl-2.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jung-io-2.0.1.jar" sourcepath="lib/jung-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jung-jai-2.0.1.jar" sourcepath="lib/jung-jai-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jung-samples-2.0.1.jar" sourcepath="lib/jung-samples-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jung-visualization-2.0.1.jar" sourcepath="lib/jung-visualization-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/vecmath-1.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/wstx-asl-3.2.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-cli-1.2.jar" sourcepath="C:/Users/Shayon/Desktop/Work/commons-cli-1.2/commons-cli-1.2-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Shayon/Desktop/Work/commons-cli-1.2/apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

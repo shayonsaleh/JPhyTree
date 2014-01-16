@@ -1,0 +1,16 @@
+JPhyTree
+by Shayon Saleh
+Batzoglou Lab - 2012
+Stanford University
+
+/**
+ * @author		Syed Shayon Saleh <ssaleh@stanford.edu>
+ * @version		0.2
+ * @since		2012-09-10
+ */
+
+Note: Make sure that Java is running on your machine before trying.
+
+-----
+To Run:
+1) Use the command: java -jar ExportJar.jar [input_matrix_filename]

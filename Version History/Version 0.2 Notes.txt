@@ -1,0 +1,10 @@
+[Tentative Title] JPhyTree
+Version 0.2
+
+Changes
+
+VCFEntry
+-Added commenting to VCFEntry
+-Changed VCFEntry's probability function (now divides by 4, not 3)
+
+ 
